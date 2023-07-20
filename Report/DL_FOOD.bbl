@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{kaggle_dataset_FOOD101}
+Lukas Bossard, Matthieu Guillaumin, and Luc Van~Gool.
+\newblock Food-101 -- mining discriminative components with random forests.
+\newblock In {\em European Conference on Computer Vision}, 2014.
+
+\bibitem{Geron}
+Aurélien Géron.
+\newblock {\em Hands-On Machine learning with Scikit-Learn, Keras \&
+  TensorFlow}.
+\newblock O'REILLY, 2nd edition, September 2019.
+
+\bibitem{kaggle_dataset_UECFOOD256}
+https://www.kaggle.com/datasets/rkuo2000/uecfood256.
+
+\end{thebibliography}
